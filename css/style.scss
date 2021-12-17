@@ -584,16 +584,6 @@ span{
     justify-content: space-between;
 }
 
-.layout{
-    display: none;
-    z-index: 500;
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0.5;
-}
-
 @media (max-width: 1000px){
     .footer{
         display: none;
